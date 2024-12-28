@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  scan-trivy:
+    container_name: scan-trivy
+    build: ./.docker
+    command: tail -f /dev/null
