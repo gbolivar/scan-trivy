@@ -1,10 +1,23 @@
 # Scanner Trivy
 
 This project is based on doing in a standard way using docker to use the trivy image vulnerability scanner, which allows checking Docker images and some aspects for images for kubernetes.
+
+# Table contents
+1. [Project Information](#information)
+2. [Requirement](#requirements)
+3. [Commands](#commands)
+4. [Autor](#team)
+5. [Contact](#contact)
+6. [Documentation](#doc)
+
 ## Project Information
 - **Trivy**: It is based on trivy.
 
-# Container to run commands
+## Requirement
+- **Docker**: It is required to have docker installed.
+- **Docker Compose**: It is required to have docker compose installed.
+
+# Commands
 
 ## Clone repository
 ```shell
@@ -66,7 +79,7 @@ Create for [Gregorio José Bolívar Bolívar](https://x.com/gbolivarb)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&labelColor=0077B5)](https://www.linkedin.com/in/gregorio-bolivar/)
 [![GitHub](https://img.shields.io/github/followers/gbolivar?style=social)](https://github.com/gbolivar)
 
-### Contacto
+### Contact
 <p>
   Anything you need let me know so I can help you. 💬.
 </p>
